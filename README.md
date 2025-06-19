@@ -71,9 +71,31 @@ Understanding the design properties in a mockup (like color schemes, typography,
 |-----------------------------|------------------------------------------------------------------------------------------|
 | **Project Manager**     | Oversees the timeline, coordinates the team, and ensures timely delivery of project goals. |
 | **Frontend Developers** | Implement UI components, and ensure the design is responsive and accessible. |
-| 🖥**Backend Developers**  | Build RESTful APIs, manage the database, and implement core business logic.               |
+| **Backend Developers**  | Build RESTful APIs, manage the database, and implement core business logic.               |
 | **Designers**           | Create mockups, maintain the design system, and ensure a high-quality user experience.   |
 | **QA/Testers**          | Write and run test cases, perform manual/automated testing, and report bugs.             |
-| ⚙**DevOps Engineers**    | Manage CI/CD pipelines, server infrastructure, and deployment environments.              |
+| **DevOps Engineers**    | Manage CI/CD pipelines, server infrastructure, and deployment environments.              |
 | **Product Owner**       | Define project requirements, prioritize features, and represent stakeholder needs.        |
 | **Scrum Master**        | Facilitate agile ceremonies, remove blockers, and promote team efficiency.               |
+
+## 🧱 UI Component Patterns
+
+To ensure reusability and consistency throughout the application, the following UI components are planned:
+
+### 🔝 Navbar
+- Logo
+- Search bar 
+- User navigation
+- Responsive menu
+
+### 🏡 Property Card
+- Property image 
+- Basic details (location, price, and rating)
+- Favorite button  
+- Responsive layout
+
+### 🔚 Footer
+- Site links
+- Company information 
+- Social media links
+- Copyright
