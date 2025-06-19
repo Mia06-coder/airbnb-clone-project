@@ -31,7 +31,7 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 
 ### 🗺️ Primary Pages
 
-| Page                  | Description                                                                  |
+| **Page**                  | **Description**                                                                  |
 |-----------------------|------------------------------------------------------------------------------|
 | Property Listing View | Grid display of available properties with filters for location, price, etc. |
 | Listing Detailed View | Complete property details with image gallery and booking form              |
@@ -64,3 +64,16 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 
 ### 🔍 Importance of Identifying Design Properties
 Understanding the design properties in a mockup (like color schemes, typography, and spacing) ensures accurate implementation of the visual system. It helps developers maintain **consistency**, match the **designer’s intent**, and build a **cohesive user experience** across all screens and devices.
+
+## 👥 Project Roles and Responsibilities
+
+| **Role**                    | **Responsibilities**                                                                 |
+|-----------------------------|------------------------------------------------------------------------------------------|
+| **Project Manager**     | Oversees the timeline, coordinates the team, and ensures timely delivery of project goals. |
+| **Frontend Developers** | Implement UI components, and ensure the design is responsive and accessible. |
+| 🖥**Backend Developers**  | Build RESTful APIs, manage the database, and implement core business logic.               |
+| **Designers**           | Create mockups, maintain the design system, and ensure a high-quality user experience.   |
+| **QA/Testers**          | Write and run test cases, perform manual/automated testing, and report bugs.             |
+| ⚙**DevOps Engineers**    | Manage CI/CD pipelines, server infrastructure, and deployment environments.              |
+| **Product Owner**       | Define project requirements, prioritize features, and represent stakeholder needs.        |
+| **Scrum Master**        | Facilitate agile ceremonies, remove blockers, and promote team efficiency.               |
